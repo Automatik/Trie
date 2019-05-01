@@ -13,6 +13,7 @@ import java.util.Queue;
 
 /**
  * Trie implementation with some more features.
+ * @link https://github.com/Automatik/Trie
  * @version 1.0
  * @author Emil
  */
