@@ -12,6 +12,7 @@ A trie implementation in Java with the following features:
   e.g: given the expression _"s??ce"_, where the symbol _?_ is the wildcard, the words found will be _"slice"_, _"space"_, _"since"_, ecc ...
   
 Useful for finding anagrams and words.
+A faster and lighter implementation is given by this [DoubleArrayTrie](https://github.com/Automatik/DoubleArrayTrie)
 ## Usage
 Create and populate the Trie
 ```
